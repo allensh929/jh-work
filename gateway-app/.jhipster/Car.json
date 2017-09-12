@@ -1,0 +1,22 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "make",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "model",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20170912043855",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "car",
+    "jpaMetamodelFiltering": true,
+    "pagination": "pagination",
+    "microserviceName": "blogApp",
+    "searchEngine": "elasticsearch"
+}
